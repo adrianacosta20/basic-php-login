@@ -7,9 +7,9 @@
     if( ! filter_var($email, FILTER_VALIDATE_EMAIL)) die('Invalid email');
 
     // check if email/pass are valid
-    if($email == 'salvi@techlaunch.io' && $pass == '123456') {
+    if($email == 'aacosta@techlaunch.io' && $pass == '123456') {
         // pull user info from the database
-        $name = 'Salvi';
+        $name = 'Adrian';
         $class = 'ROR1000';
 
         // start the session

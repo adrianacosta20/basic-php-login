@@ -16,10 +16,10 @@
 </ul>
 
 <form action="profileSubmit.php" method="post">
-<input type="text" name="name" placeholder="Type your name"  /><br />
-<input type="email"  name="email" placeholder="Type your email"  /><br />
-<input type="text"  name="class" placeholder="Type your class name"  /><br />
-<input type="submit"  value = "update" />
+    <input type="text" name="name" placeholder="Type your name"  /><br />
+    <input type="email"  name="email" placeholder="Type your email"  /><br />
+    <input type="text"  name="class" placeholder="Type your class name"  /><br />
+    <input type="submit"  value = "update" />
 </form>
 
 <a href="home.php">Home</a><br/>

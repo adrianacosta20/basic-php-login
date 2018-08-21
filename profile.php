@@ -15,7 +15,7 @@
     <li>Class: <?=$class?></li>
 </ul>
 
-<form action="profilesubmit.php" method="post">
+<form action="profileSubmit.php" method="post">
 <input type="text" name="name" placeholder="Type your name"  /><br />
 <input type="email"  name="email" placeholder="Type your email"  /><br />
 <input type="text"  name="class" placeholder="Type your class name"  /><br />
